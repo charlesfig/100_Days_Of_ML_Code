@@ -18,7 +18,7 @@ Started with the Sci-Kit Learn [tutorials](http://scikit-learn.org/stable/tutori
 **Comments** : 
 I had a lot of trouble with pip for downloading through Terminal. In the end I downloaded Anaconda and used conda instead of pip. 
 
-**Link of Work:** 'upload code' digits.py
+**Link of Work:** : [digits.py](https://github.com/charlesfig/100_Days_Of_ML_Code/blob/master/Day%202/digits.py)
 
 
 ## Day 1 : 12th July, 2018
