@@ -1,6 +1,6 @@
 # 100_Days_Of_ML_Code
 
-## Day 0 : June 30 , 2018
+## Day 0 : 13th July, 2018
  
 **Today's Progress** : I have setup all the things I needed to complete this challenge and also completed chosing the projects I will work on .
 
