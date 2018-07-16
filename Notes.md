@@ -21,6 +21,7 @@ Twitter
 ### MIT OpenCourseWare - Linear Algebra
 ### Coursera Deep Learning by Andrew Ng
 ### [Fast.ai](www.fast.ai)
+### [Sentdex AI Finance and Investing](https://www.youtube.com/user/sentdex/playlists?shelf_id=21&view=50&sort=dd)
 
 
 ## Books
@@ -38,6 +39,7 @@ Siraj Raval
 Ian Goodfellow
 Sebastian Thrun
 [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+[Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 ## Projects
 ### [Driven Data](https://www.drivendata.org/) - Data Science competitions to change the world
